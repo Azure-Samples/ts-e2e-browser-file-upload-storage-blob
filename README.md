@@ -19,6 +19,8 @@ products:
 
 This sample project is a TypeScript React (create-react-app) framework client app with an HTML form to select a file for upload to Azure Storage Blobs. 
 
+JavaScript [version](https://github.com/Azure-Samples/js-e2e-browser-file-upload-storage-blob)
+
 The user:
 * selects an image from the file system
 * uploads the image to Storage Blobs
